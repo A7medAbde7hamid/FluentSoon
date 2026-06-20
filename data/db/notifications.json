@@ -1,0 +1,42 @@
+[
+  {
+    "id": "NOT_1781941468624",
+    "title": "Bulk Status Altered",
+    "message": "1 candidates status updated to FAILED successfully.",
+    "read": false,
+    "type": "INFO",
+    "createdAt": "2026-06-20T07:44:28.624Z"
+  },
+  {
+    "id": "NOT001",
+    "title": "New Candidate Registered",
+    "message": "Nadine El-Fayed has applied to the German Travel Consultant offer. Recruiter: Mariam Hassan.",
+    "read": false,
+    "type": "SUCCESS",
+    "createdAt": "2026-06-16T13:00:10Z"
+  },
+  {
+    "id": "NOT002",
+    "title": "Interview Scheduled",
+    "message": "Mustafa Mahmoud Aly scheduled for onsite assessment at TP on 2026-06-19 11:00.",
+    "read": false,
+    "type": "INFO",
+    "createdAt": "2026-06-16T09:30:00Z"
+  },
+  {
+    "id": "NOT003",
+    "title": "System Backup Initiated",
+    "message": "Standard system snapshot and relational schema synchronization compiled and archived successfully to local backup drawer.",
+    "read": true,
+    "type": "INFO",
+    "createdAt": "2026-06-15T23:59:59Z"
+  },
+  {
+    "id": "NOT004",
+    "title": "New Recruiter Pending Approval",
+    "message": "A fresh recruiter applicant (Maged El-Khawaga) submitted Form 1. Review and assign team immediately.",
+    "read": false,
+    "type": "WARNING",
+    "createdAt": "2026-06-16T12:15:30Z"
+  }
+]

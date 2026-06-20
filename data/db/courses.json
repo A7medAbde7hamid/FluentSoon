@@ -1,0 +1,24 @@
+[
+  {
+    "id": "CRS001",
+    "name": "BPO Premium English Masterclass",
+    "description": "Immersive English coaching focusing on UK/US customer support vocabulary, soft skills, accent neutralization, and customer handling techniques.",
+    "goal": "Train candidates to pass Teleperformance & Concentrix English pre-screeners easily.",
+    "targetPeople": "Intermediate English speakers aiming for high-salary Western accounts.",
+    "dailyPlan": "Week 1: Accent tuning. Week 2: BPO simulations. Week 3: Mock voice test systems. Week 4: Final recruiter review.",
+    "durationWeeks": 4,
+    "price": 1500,
+    "createdAt": "2025-01-01"
+  },
+  {
+    "id": "CRS002",
+    "name": "B2 German Intensive Booster",
+    "description": "Professional conversational German, with active feedback sessions, native-moderated discussions, and customer relations terms.",
+    "goal": "Increase German level from low B1 to strong B2/C1 to match 30k+ EGP offers.",
+    "targetPeople": "Applicants registered with Fluent who missed the German thresholds.",
+    "dailyPlan": "Week 1-3: Advanced grammar. Week 4-6: Business communication. Week 7-8: Practice assessments.",
+    "durationWeeks": 8,
+    "price": 3200,
+    "createdAt": "2025-03-01"
+  }
+]

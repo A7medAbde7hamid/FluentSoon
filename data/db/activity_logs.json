@@ -1,0 +1,58 @@
+[
+  {
+    "id": "LOG_1781941468624",
+    "userId": "USR001",
+    "userName": "Youssef Mansour",
+    "action": "BULK_STATUS_CHANGE",
+    "entity": "Candidate",
+    "entityId": "CAND001",
+    "newValue": "Transitioned bulk of 1 applicants to status: FAILED",
+    "ipAddress": "197.34.201.55",
+    "createdAt": "2026-06-20T07:44:28.624Z"
+  },
+  {
+    "id": "LOG_AUTH_1781941389108",
+    "userId": "UNKNOWN",
+    "userName": "Youssef Mansour",
+    "action": "USER_LOGIN",
+    "entity": "System",
+    "entityId": "Session",
+    "newValue": "Authenticated as SUPER_ADMIN",
+    "ipAddress": "197.34.201.55",
+    "createdAt": "2026-06-20T07:43:09.108Z"
+  },
+  {
+    "id": "LOG001",
+    "userId": "USR001",
+    "userName": "Youssef Mansour",
+    "action": "USER_LOGIN",
+    "entity": "User",
+    "entityId": "USR001",
+    "ipAddress": "197.34.201.55",
+    "createdAt": "2026-06-16T13:10:00Z"
+  },
+  {
+    "id": "LOG002",
+    "userId": "USR008",
+    "userName": "Fatma Aly",
+    "action": "CANDIDATE_STATUS_UPDATE",
+    "entity": "Candidate",
+    "entityId": "CAND001",
+    "oldValue": "PASSED",
+    "newValue": "HIRED",
+    "ipAddress": "197.35.10.22",
+    "createdAt": "2026-06-16T12:15:45Z"
+  },
+  {
+    "id": "LOG003",
+    "userId": "USR001",
+    "userName": "Youssef Mansour",
+    "action": "OFFER_EDIT",
+    "entity": "Offer",
+    "entityId": "OFF001",
+    "oldValue": "Salary: 15,000 EGP",
+    "newValue": "Salary: 16,000 EGP + 3,000 Key performance bonus",
+    "ipAddress": "197.34.201.55",
+    "createdAt": "2026-06-16T11:05:12Z"
+  }
+]

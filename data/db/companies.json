@@ -1,0 +1,34 @@
+[
+  {
+    "id": "COMP001",
+    "name": "Teleperformance Egypt",
+    "location": "Fifth Settlement, Cairo",
+    "industry": "Business Process Outsourcing (BPO)",
+    "active": true,
+    "createdAt": "2020-01-01"
+  },
+  {
+    "id": "COMP002",
+    "name": "Concentrix Egypt",
+    "location": "Maadi Technology Park, Cairo",
+    "industry": "Outsourcing Solutions",
+    "active": true,
+    "createdAt": "2021-03-15"
+  },
+  {
+    "id": "COMP003",
+    "name": "Vodafone International Services (VIS)",
+    "location": "Smart Village, Giza",
+    "industry": "Telecommunications & IT Support",
+    "active": true,
+    "createdAt": "2018-06-20"
+  },
+  {
+    "id": "COMP004",
+    "name": "Webhelp Egypt",
+    "location": "Heliopolis, Cairo",
+    "industry": "Customer Engagement Services",
+    "active": true,
+    "createdAt": "2022-09-01"
+  }
+]

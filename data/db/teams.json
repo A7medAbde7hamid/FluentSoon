@@ -1,0 +1,54 @@
+[
+  {
+    "id": "TEAM001",
+    "name": "Team Pola",
+    "leaderId": "USR003",
+    "leaderName": "Pola Marcos",
+    "description": "Elite bilingual english recruitment team focusing on Tier-1 customer support offers.",
+    "status": "ACTIVE",
+    "createdAt": "2023-02-10"
+  },
+  {
+    "id": "TEAM002",
+    "name": "Team Christen",
+    "leaderId": "USR004",
+    "leaderName": "Christen Farouk",
+    "description": "High-volume outbound recruitment experts matching talent with tech roles.",
+    "status": "ACTIVE",
+    "createdAt": "2023-03-05"
+  },
+  {
+    "id": "TEAM003",
+    "name": "Team Habiba",
+    "leaderId": "USR005",
+    "leaderName": "Habiba Soliman",
+    "description": "Specialists in European languages (German, French, Spanish, Italian).",
+    "status": "ACTIVE",
+    "createdAt": "2023-03-12"
+  },
+  {
+    "id": "TEAM004",
+    "name": "Team Amr",
+    "leaderId": "USR006",
+    "leaderName": "Amr Hegazi",
+    "description": "Focuses on regional Gulf accounts, premium Arabic support, and domestic visual services.",
+    "status": "ACTIVE",
+    "createdAt": "2023-04-01"
+  },
+  {
+    "id": "TEAM005",
+    "name": "Team Adam",
+    "leaderId": "USR007",
+    "leaderName": "Adam Reda",
+    "description": "Focuses on specialized developer matching and IT systems engineers.",
+    "status": "ACTIVE",
+    "createdAt": "2023-04-10"
+  },
+  {
+    "id": "TEAM006",
+    "name": "New Recruiter Team",
+    "description": "Default onboarding team for freshly registered recruiters in training.",
+    "status": "ACTIVE",
+    "createdAt": "2024-01-01"
+  }
+]

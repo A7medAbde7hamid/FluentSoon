@@ -1,0 +1,6 @@
+{
+  "name": "Fluent Recruitment Management System",
+  "description": "A comprehensive dark-themed Recruitment Management System featuring role-based dashboards, candidate applicant tracking (CRM), team performance statistics, academic course payments, and progressive web app configuration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

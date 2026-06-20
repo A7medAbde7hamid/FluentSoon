@@ -1,0 +1,47 @@
+[
+  {
+    "id": "STUD001",
+    "fullName": "Amira Ghoneim",
+    "phone": "+201009871111",
+    "graduationStatus": "Graduated",
+    "recruiterPhone": "+201011122233",
+    "teamName": "Team Pola",
+    "courseId": "CRS001",
+    "courseName": "BPO Premium English Masterclass",
+    "status": "ACTIVE",
+    "paymentStatus": "PAID",
+    "paymentAmount": 1500,
+    "dueDate": "2026-06-01",
+    "createdAt": "2026-05-25"
+  },
+  {
+    "id": "STUD002",
+    "fullName": "Mahmoud El-Nahas",
+    "phone": "+201122446688",
+    "graduationStatus": "Enrolled",
+    "recruiterPhone": "+201233344455",
+    "teamName": "Team Christen",
+    "courseId": "CRS002",
+    "courseName": "B2 German Intensive Booster",
+    "status": "REGISTERED",
+    "paymentStatus": "PARTIAL",
+    "paymentAmount": 1600,
+    "dueDate": "2026-07-01",
+    "createdAt": "2026-06-10"
+  },
+  {
+    "id": "STUD003",
+    "fullName": "Rana Soliman",
+    "phone": "+201211112222",
+    "graduationStatus": "Postponed",
+    "recruiterPhone": "+201122233344",
+    "teamName": "Team Pola",
+    "courseId": "CRS001",
+    "courseName": "BPO Premium English Masterclass",
+    "status": "REGISTERED",
+    "paymentStatus": "PENDING",
+    "paymentAmount": 0,
+    "dueDate": "2026-06-25",
+    "createdAt": "2026-06-15"
+  }
+]
